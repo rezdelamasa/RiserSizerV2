@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RiserSizerV2/precache-manifest.494526a725f229f3221c46bd6e7e9391.js"
+  "/RiserSizerV2/precache-manifest.4e2d44aac45dcc0c97234a222d7a7ad7.js"
 );
 
 self.addEventListener('message', (event) => {

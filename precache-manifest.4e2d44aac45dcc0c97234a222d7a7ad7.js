@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff107d1566acf76b13f6591816bb92a9",
+    "revision": "b0114569b307d291130d243f8e792c3b",
     "url": "/RiserSizerV2/index.html"
   },
   {
-    "revision": "70d76d834d53ef64d2d1",
+    "revision": "94b095aaca3518948cc0",
     "url": "/RiserSizerV2/static/css/main.e213c95f.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RiserSizerV2/static/js/2.ca0a1a55.chunk.js"
   },
   {
-    "revision": "70d76d834d53ef64d2d1",
-    "url": "/RiserSizerV2/static/js/main.6df8f312.chunk.js"
+    "revision": "94b095aaca3518948cc0",
+    "url": "/RiserSizerV2/static/js/main.369e8a91.chunk.js"
   },
   {
     "revision": "59805a61d8797953ba47",
